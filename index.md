@@ -1,4 +1,6 @@
-# <h1> hello
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [X] Introduce myself to the world# <h1> hello
 ``` javascript
 var myVar = "Hello, world!";
 ```
